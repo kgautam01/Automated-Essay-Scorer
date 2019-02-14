@@ -42,4 +42,4 @@ Here, Word2vec model is used to generate word embeddings on which the whole mode
 
 # Conclusion : 
 
-Out of all the models that were trained and tested, LSTMs outperforms all other models and hence the same is used to generate scores for the final dataset.
+Out of all the models that were trained and tested, LSTMs outperform all other models and hence the same is used to generate scores for the final dataset.
