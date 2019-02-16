@@ -49,8 +49,8 @@ pip install nltk
 Out of all the models that were trained and tested, LSTMs outperform all other models and hence the same is used to generate scores for the final dataset.
 
 # References
-* [](https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-    natural-language-processing-40fe4e8602ba)
-* [](https://arxiv.org/pdf/1606.04289.pdf)
-* [](http://aclweb.org/anthology/D/D16/D16-1193.pdf)
+* [Check out this awesome article on word2vec model] (https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-    natural-language-processing-40fe4e8602ba)
+* [Automatic Text Scoring Using Neural Networks] (https://arxiv.org/pdf/1606.04289.pdf)
+* [A Neural Approach to Automated Essay Scoring] (http://aclweb.org/anthology/D/D16/D16-1193.pdf)
 
 
