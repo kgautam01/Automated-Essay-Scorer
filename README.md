@@ -29,15 +29,15 @@ Here, Word2vec model is used to generate word embeddings on which the whole mode
 # Installation :
 
 1. Install all the packages which are mentioned above using the following command:
+```
 
-'''
 pip install keras
 pip install numpy
 pip install pandas
 pip install sklearn
 pip install gensim
 pip install nltk
-'''
+```
 
 2. Run the essay_scorer.py file in jupyter notebook.
 3. Have a cup of coffee and wait for the models to generate their respective mean squared error values, variances, cohen kappa scores.
