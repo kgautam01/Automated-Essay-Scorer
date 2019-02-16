@@ -3,10 +3,11 @@
 # Pre-requisites
 * Pandas
 * Numpy
-* Natural language toolkit(nltk)
-* Gensim for Word2vec
+* Natural language toolkit (NLTK)
+* Gensim 3.5
 * Scikit-learn
-* Keras
+* Keras 2.2.2
+* Tensorflow 1.9
 
 # Models used in training
 
@@ -19,7 +20,9 @@
 
 * Mean squared error
 * Variance
-* Cohen Kappa score
+* Cohen's Kappa score
+
+
 
 # Approach
 
@@ -30,7 +33,6 @@ Here, Word2vec model is used to generate word embeddings on which the whole mode
 
 1. Install all the packages which are mentioned above using the following command:
 ```
-
 pip install keras
 pip install numpy
 pip install pandas
@@ -47,4 +49,8 @@ pip install nltk
 Out of all the models that were trained and tested, LSTMs outperform all other models and hence the same is used to generate scores for the final dataset.
 
 # References
+* [](https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-    natural-language-processing-40fe4e8602ba)
+* [](https://arxiv.org/pdf/1606.04289.pdf)
+* [](http://aclweb.org/anthology/D/D16/D16-1193.pdf)
+
 
