@@ -45,7 +45,7 @@ pip install nltk
 2. Run the essay_scorer.py file in jupyter notebook.
 3. Have a cup of coffee and wait for the models to generate their respective mean squared error values, variances, cohen kappa scores.
 
-* *Out of all the models that were trained and tested, LSTMs outperform all other models and hence the same is used to generate scores for the final dataset.
+**Out of all the models that were trained and tested, _LSTMs_ outperform all other models and hence the same is used to generate scores for the final dataset**.
 
 # References
 * [Check out this awesome article on word2vec model](https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba)
