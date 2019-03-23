@@ -33,7 +33,7 @@ Here, Word2vec model is used to generate word embeddings on which the whole mode
 
 # Installation
 
-1. Install all the packages which are mentioned above using the following command:
+1. Install the packages which are mentioned above using the following commands:
 ```
 pip install keras
 pip install numpy
