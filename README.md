@@ -49,7 +49,7 @@ pip install nltk
 
 # References
 * [Check out this awesome article on word2vec model](https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba)
-* [Check out this awesome article on Cohen' Kappa Score](https://towardsdatascience.com/inter-rater-agreement-kappas-69cd8b91ff75)
+* [Check out this awesome article on Cohen's Kappa Score](https://towardsdatascience.com/inter-rater-agreement-kappas-69cd8b91ff75)
 * [Automatic Text Scoring Using Neural Networks](https://arxiv.org/pdf/1606.04289.pdf)
 * [A Neural Approach to Automated Essay Scoring](http://aclweb.org/anthology/D/D16/D16-1193.pdf)
 
