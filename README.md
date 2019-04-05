@@ -28,7 +28,7 @@
 
 # Approach
 
-Here, Word2vec model is used to generate word embeddings on which the whole model relies to predict the scores. Before generating word vectors, essays given in the essay sets are cleaned(removing stopwords, punctuations, special symbols etc.) and then word vectors are created so as to feed it to the word2vec model for generating word embeddings. After that, model is trained on various regression algorithms and each is avaluated on the basis of certain evaluation metric.
+Here, Word2vec model is used to generate word embeddings on which the whole model relies to predict the scores. Before generating word vectors, essays given in the essay sets are cleaned(removing stopwords, punctuations, special symbols etc.) and then word vectors are created so as to feed it to the word2vec model for generating word embeddings. After that, model is trained on various regression algorithms and each is evaluated on the basis of certain evaluation metric.
 
 
 # Installation
